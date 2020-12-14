@@ -1,4 +1,4 @@
-## Hi 👋 I am Tim!
+## Hi 👋 I'm Tim!
 
 ---
 
