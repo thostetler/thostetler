@@ -5,9 +5,9 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
-TypeScript   14 hrs 36 mins  ████████████████████████▓   99.17 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript   14 hrs 49 mins  ████████████████████████▓   99.14 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
