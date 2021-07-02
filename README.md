@@ -5,9 +5,9 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 24 June, 2021 - 30 June, 2021
+Week: 25 June, 2021 - 01 July, 2021
 
-JavaScript   8 hrs 38 mins   ███████████████████████▒░   93.14 % 
-HTML         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JavaScript   6 hrs 48 mins   ███████████████████████░░   92.44 % 
+HTML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 ```
 <!--END_SECTION:waka-->
