@@ -5,7 +5,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2021 - 04 July, 2021
+Week: 29 June, 2021 - 05 July, 2021
 
 MDX          22 mins         ███████████▒░░░░░░░░░░░░░   45.74 % 
 JSX          8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
