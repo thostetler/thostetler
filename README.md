@@ -5,11 +5,11 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-TypeScript   9 hrs 19 mins   ██████████████████████▒░░   89.80 % 
-JavaScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript   9 hrs 19 mins   ██████████████████████▒░░   89.28 % 
+JavaScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 <!--END_SECTION:waka-->
