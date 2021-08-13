@@ -5,12 +5,12 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
-TypeScript   7 hrs           ████████████████████░░░░░   79.85 % 
-JavaScript   1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TypeScript   4 hrs 46 mins   ███████████████░░░░░░░░░░   59.70 % 
+JavaScript   1 hr 41 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 % 
+Docker       48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Other        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
